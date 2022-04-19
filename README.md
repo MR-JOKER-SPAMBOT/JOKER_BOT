@@ -1,37 +1,37 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![JOKERBOT](https://te.legra.ph/file/032e3e92df07e228f4ef6.jpg)](https://github.com/ITS-MR-JOKER-SPAMBOT/JOKER_BOT)
 
 
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』 </b>
+<b> 『jokerẞø†』 </b>
 </h1>
 
 <h6 align="center">
-  <b>⚡ Presenting a LegendBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
+  <b>⚡ Presenting a mr-jokerBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
 </h6>
 
 
-[![](https://img.shields.io/badge/LegendBot-v2.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?style=flat-square&color=yellow)](https://github.com/LEGEND-AI/LEGENDBOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?style=flat-square&color=orange)](https://github.com/LEGEND-AI/LEGENDBOT/fork)
-[![Size](https://img.shields.io/github/repo-size/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/)   
+[![](https://img.shields.io/badge/jokerBot-v2.0-blue)](#)
+[![Stars](https://img.shields.io/github/stars/MR_JOKER-SPAMBOT/JOKER_BOT-?style=flat-square&color=yellow)](https://github.com/MR-JOKER_SPAMBOT/JOKER_BOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/MR-JOKER_SPAMBOT/JOKERBOT?style=flat-square&color=orange)](https://github.com/MR-JOKER-SPAMBOT/JOKER_BOT/fork)
+[![Size](https://img.shields.io/github/repo-size/MR-JOKER-SPAMBOT/JOKERBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/commit-activity)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LEGEND-AI/LEGENDBOT)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MR-JOKER-SPAMBOT/JOKER_BOT)
 [![Contributors](https://img.shields.io/github/contributors/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/LEGEND-AI/LEGENDBOT/blob/main/LICENSE)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MR-JOKER-SPAMBOT/JOKER_BOT/blob/main/JOKER)   
 
 ------
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-AI/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT?"></a>
+    <a href="https://github.com/MR-JOKER-SPAMBOT/JOKER_BOT/network/members"><img src="https://img.shields.io/github/forks/MR-JOKER-SPAMBOT/JOKER_BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/MR-JOKER-SPAMBOT/JOKER_BOT/stargazers"><img src="https://img.shields.io/github/stars/MR-JOKER-SPAMBOT/JOKER_BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/MR-JOKER-SPAMBOT/JOKER_BOT"></a><p align="left"><a href="https://github.com/MR-JOKER/JOKER_BOT?"></a>
 
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_K_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_K_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/ALL_SPAMMER) 
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/DEVILKAMINA) 
 
 ------
 
@@ -44,7 +44,7 @@
 
 - Fork This Main Repo.
 - Go to Setting Of Repo.
-- Rename the Fork Repo Put Anything Example : LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
+- Rename the Fork Repo Put Anything Example : JOKER1BOT, HSKSBOT, JOKEROFFBOT etc...
 - Now U Can Deploy This Bot.
 
 <a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
@@ -109,4 +109,4 @@
 </details>
 
 
-> Made with 💕 by [@LegendBot_XD](https://t.me/LegendBot_XD).    
+> Made with 💕 by [@JOKER_KAMINA](https://t.me/JOKER_KAMINA).    
